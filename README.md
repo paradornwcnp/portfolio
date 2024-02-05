@@ -1,4 +1,4 @@
-# portfolio
+# My Portfolio
 ### Education
 Earth and Environmnatl Sciences, PhD, specilization in Geographic Information Systems
 
