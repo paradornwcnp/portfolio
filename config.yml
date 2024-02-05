@@ -1,11 +1,5 @@
-# PW
-Welcome to my homepage
-
-### Education
-Earth and Environmental Sciences, Geographic information systems (GIS)
-
-### Work Experience
-- LECZ
-- maps
-
-### Projects
+title: Paradorn Wcnp
+#logo: /assets/img/mypic.png
+# description text below image
+show_downloads: false
+theme: jekyll-theme-minimal
