@@ -12,3 +12,7 @@ Earth and Environmnatl Sciences, PhD, specilization in Geographic Information Sy
 # Projects
 
 ### Work Experience
+
+### Skills
+- Programming languages: R, Python, IDL
+- Software: ArcGIS Pro, Geoda, QGIS
