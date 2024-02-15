@@ -1,11 +1,12 @@
 # My Portfolio
 ### Education
-Earth and Environmnatl Sciences, PhD, specilization in Geographic Information Systems
+PhD in Earth and Environmnatl Sciences with specilization in Geographic Information Systems (GIS), The Graduate Center of City University of New York (CUNY), February 2024.
+
 
 ## Research interests
+- Analyzing spatial, environmental, and demographic data.
 - Low eleavation coastal zone (LECZ)
 - Urbanization
-- Demography
 - spatial algorithms.
 - spatial statistics
 
